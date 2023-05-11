@@ -4,5 +4,5 @@
 - 坐标上海，95后前端开发一枚，完美主义，平常喜欢看书，数码产品，追动漫，旅游，打打游戏，轻微洁癖和强迫症患者。
 - 除了日常搬砖之外，在生活上比较随性，妥妥小宅男，追求简单平淡，偶尔也需要有一些仪式感。
 
-- 欢迎访问个人网站🏡<a href="https://yychuiyan.com/" target="_blank">https://yychuiyan.com/</a>
+- 欢迎访问个人网站🏡 <a href="https://yychuiyan.com" target="_blank">https://yychuiyan.com</a>
 - 都是一些前端相关的文档，共同学习，共同进步~
